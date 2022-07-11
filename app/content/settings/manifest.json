@@ -1,7 +1,7 @@
 {
-  "name": "Bluise",
-  "shortName": "Bluise",
-  "description": "A Nuxt.js & Netlify CMS boilerplate.",
+  "name": "Kistler Legal Group",
+  "shortName": "Kistler Legal Group",
+  "description": "Home page for the Kistler Legal Group",
   "themeColor": "#0b3765",
   "backgroundColor": "#ffffff",
   "lang": "en"
